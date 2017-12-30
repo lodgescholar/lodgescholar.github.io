@@ -1,0 +1,75 @@
+/* GLOBAL STYLES
+--------------------*/
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #b69a5b;
+}
+h1, h2 {
+    margin: 0;
+}
+main {
+    text-align: center;
+}
+/*Clearfix hack
+----------------------*/
+.content-wrap:after, #intro:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* HEADER STYLES
+--------------------*/
+header {
+    background-color: #b69a5b;
+}
+.col-left, .col-right {
+    display: inline-block;
+    width: 48%;
+}
+.col-left {
+    text-align: right;
+    float: left;
+    margin: 1%;
+}
+.col-right {
+    margin-top: 5%;
+    margin-left: 1%;
+}
+/* TEST STYLES
+--------------------*/
+.tests {
+    background-color: #5f3d9b;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+.leftpair {
+    margin-right: 3%;
+}
+h3 {
+    text-decoration: underline;
+}
+.tests a, .tests a:visited {
+    color: #b69a5b;
+}
+
+/* FOOTER STYLES
+--------------------*/
+footer {
+    background-color: #b69a5b;  
+}
+ul, li {
+    list-style-type: none;
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: block;
+    line-height: 200%;
+}
+footer a, footer a:visited {
+    color: #5f3d9b;
+}
