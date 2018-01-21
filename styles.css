@@ -8,7 +8,8 @@ html, body {
     overflow-x: hidden; 
 /*    FIRST THREE LINES ARE HACKS*/
     margin: 0;
-    padding: 0;   
+    padding: 0;
+    background-color: #B69A5B; /* UNTIL FIX FOR MOBILE*/
 }
 .content-wrap {
     margin: auto 0;
