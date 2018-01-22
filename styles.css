@@ -121,7 +121,9 @@ footer h2 {
         text-align: center;
         width: 100%;
     }
-    
+    header {
+        padding-bottom: 2%;
+    }
     
     
     
