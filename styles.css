@@ -80,6 +80,8 @@ h3 {
 }
 .tests a, .tests a:visited {
     color: #B69A5B;
+    display: inline-block;
+    margin-bottom: 1%;
 }
 .tests .content-wrap {
     padding-bottom: 1%;
