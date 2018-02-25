@@ -65,10 +65,10 @@ h1 {
 }
 
 
-/* TEST STYLES
+/* Brothers STYLES
 --------------------*/
-.tests {
-    background-color: #5F3D9B;
+.brothers {
+    background-color: #B69A5B;
     padding-bottom: 1%;
     padding-top: 1%;
 }
@@ -78,20 +78,20 @@ h1 {
 h3 {
     text-decoration: underline;
 }
-.tests a, .tests a:visited {
+.brothers a, .brothers a:visited {
     color: #B69A5B;
     display: inline-block;
     margin-bottom: 1%;
 }
-.tests .content-wrap {
+.brothers .content-wrap {
     padding-bottom: 1%;
 }
 
 
-/* FOOTER STYLES
+/* RESOURCSE STYLES
 --------------------*/
-footer {
-    background-color: #B69A5B;  
+.resources {
+    background-color: #5F3D9B;  
     padding-bottom: 1%;
     padding-top: 1%;
 }
@@ -106,10 +106,10 @@ li {
     line-height: 200%;
     font-size: 1.2em;
 }
-footer a, footer a:visited {
-    color: #5F3D9B;
+.resources a, resources a:visited {
+    color: #B69A5B;
 }
-footer h2 {
+.resources h2 {
     margin-bottom: 1%;
 }
 
